@@ -25,8 +25,4 @@ public class Usuario {
         System.out.println("Executando método visualizarPerfil da classe Usuario");
 
       }
-
-    public void visualizarPerfil2() {
-        System.out.println("Executando método visualizarPerfil da classe Usuario");
-    }
 }
